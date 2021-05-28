@@ -1,1 +1,1 @@
-C:\Users\yodir\AppData\Local\chia-blockchain\app-1.1.6\resources\app.asar.unpacked\daemon
+C:\Users\****\AppData\Local\chia-blockchain\app-1.1.6\resources\app.asar.unpacked\daemon
